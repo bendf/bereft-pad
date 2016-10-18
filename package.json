@@ -1,0 +1,18 @@
+{
+  "name": "bereft-pad",
+  "version": "1.0.2",
+  "description": "Parody of left-pad package which only pads with \\u26B0 (coffin) symbol.",
+  "main": "bereft-pad.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "bereft-pad",
+    "left-pad",
+    "padding",
+    "string",
+    "pad"
+  ],
+  "author": "Benjamin Dudiak-Fry",
+  "license": "WTFPL"
+}
